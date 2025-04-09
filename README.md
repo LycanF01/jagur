@@ -39,7 +39,7 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
 
 <div class="text-center">
-<img src="1744183345534.jpeg" height="300px" width="300px" class="rounded-circle" alt="..."> 
+<img src="1744183345534.jpg" height="300px" width="300px" class="rounded-circle" alt="..."> 
 </div>
 
 <h2 align="center"> <br> JANGAN MARAH-MARAH YA JAGUR <br><br><br> nanti hidungnya makin ilang <br> salam boyah <br> lopyuu
