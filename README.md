@@ -6,7 +6,7 @@
   </head>
   <body>
 
-<h2 align="center"> SELAMAT DATANG
+<h2 align="center"> WELCOME JAGUR TOMAT WKWK
 <nav class="navbar bg-dark">
   <div class="container-fluid">
     <form class="d-flex" role="search">
@@ -17,17 +17,17 @@
 </nav>
 <nav class="navbar navbar-expand-lg bg-info">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#">Elfathir</a>
+    <a class="navbar-brand" href="#">From Elfathir</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="uhuy.html">kembali</a>
+          <a class="nav-link active" aria-current="page" href="uhuy.html"></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="windah.html">ada tebe guys</a>
+          <a class="nav-link" href="windah.html">ada jagur guys</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#"></a>
